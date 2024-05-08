@@ -1,0 +1,285 @@
+Id,Company,Location_HQ,Country,Continent,Laid_Off,Date_layoffs,Percentage,Company_Size_before_Layoffs,Company_Size_after_layoffs,Industry,Stage,Money_Raised_in_$_mil,Year,lat,lng
+206,Dunzo,Bengaluru,India,Asia,150,2023-09-26,30.0,500,350,Food,Unknown,$458,2023,12.97194,77.59369
+1382,Tomorrow,Hamburg,Germany,Europe,30,2022-12-16,25.0,120,90,Finance,Unknown,$29,2022,53.55073,9.99302
+2123,Dover,San Francisco Bay Area,USA,North America,23,2022-07-26,30.0,77,54,Recruiting,Series A,$22,2022,37.33939,-121.89496
+3006,NuoDB,Boston,USA,North America,20,2020-04-10,29.0,69,49,Data,Unknown,$85,2020,42.35843,-71.05977
+898,Waymo,San Francisco Bay Area,USA,North America,209,2023-03-01,8.0,2613,2404,Transportation,Subsidi…,$5.500,2023,37.38605,-122.08385
+3166,FabHotels,New Delhi,India,Asia,80,2020-03-30,20.0,400,320,Travel,Series B,$48,2020,28.65195,77.23149
+2336,Bonsai,Toronto,Canada,North America,30,2022-06-20,55.0,55,25,Retail,Series A,$27,2022,43.70643,-79.39864
+1706,Opendoor,San Francisco Bay Area,USA,North America,550,2022-11-02,18.0,3056,2506,Real Estate,Post-IPO,1900,2022,37.77493,-122.41942
+2194,Arrival,London,United Kingdom,Europe,480,2022-07-13,30.0,2080,1600,Transportation,Post-IPO,$629,2022,51.50853,-0.12574
+2948,Komodo Health,San Francisco Bay Area,USA,North America,23,2020-04-20,9.0,256,233,Healthcare,Series C,$50,2020,37.77493,-122.41942
+1589,Wayflyer,Dublin,Ireland,Europe,200,2022-11-16,40.0,500,300,Marketing,Unknown,$889,2022,53.33306,-6.24889
+1582,&Open,Dublin,Ireland,Europe,9,2022-11-17,9.0,100,91,Marketing,Series A,$35,2022,53.33306,-6.24889
+1801,Noom,New York City,USA,North America,500,2022-10-11,10.0,5000,4500,Healthcare,Series F,$657,2022,40.71427,-74.00597
+2593,BitTitan,Seattle,USA,North America,70,2021-11-18,27.0,259,189,Data,Acquired,$46,2021,47.60621,-122.33207
+2688,Glossier,New York City,USA,North America,150,2020-08-07,38.0,395,245,Retail,Series D,$186,2020,40.71427,-74.00597
+2531,Bonsai,Toronto,Canada,North America,29,2022-04-26,34.0,85,56,Retail,Series A,$27,2022,43.70643,-79.39864
+1710,Checkmarx,Tel Aviv,Israel,Asia,100,2022-11-02,10.0,1000,900,Security,Series C,$92,2022,32.08088,34.78057
+2103,Career Karma,San Francisco Bay Area,USA,North America,60,2022-07-28,33.0,182,122,Education,Series B,$51,2022,37.77493,-122.41942
+1689,KoinWorks,Jakarta,Indonesia,Asia,70,2022-11-04,8.0,875,805,Finance,Unknown,$180,2022,-6.21462,106.84513
+1050,Okta,San Francisco Bay Area,USA,North America,300,2023-02-02,5.0,6000,5700,Security,Post-IPO,$1200,2023,37.77493,-122.41942
+2388,Hologram,Chicago,USA,North America,80,2022-06-09,40.0,200,120,Infrastructure,Series B,$82,2022,41.85003,-87.65005
+2280,StockX,Detroit,USA,North America,120,2022-06-28,8.0,1500,1380,Retail,Series E,$690,2022,42.33143,-83.04575
+2564,Trell,Bengaluru,India,Asia,300,2022-03-15,50.0,600,300,Retail,Series B,$62,2022,12.97194,77.59369
+3107,1stdibs,New York City,USA,North America,70,2020-04-02,17.0,412,342,Retail,Series D,$253,2020,40.71427,-74.00597
+2742,Redox,Madison,USA,North America,44,2020-06-16,25.0,176,132,Healthcare,Series C,$50,2020,43.07305,-89.40123
+260,Nexar,New York City,USA,North America,17,2023-09-04,14.0,121,104,Transportation,Series D,$149,2023,40.71427,-74.00597
+1798,6sense,San Francisco Bay Area,USA,North America,150,2022-10-12,10.0,1500,1350,Sales,Series E,$426,2022,37.77493,-122.41942
+1233,Unico,Sao Paulo,Brazil,South America,110,2023-01-17,10.0,1100,990,Other,Series D,$336,2023,-23.5475,-46.63611
+1679,Zendesk,San Francisco Bay Area,USA,North America,350,2022-11-07,5.0,7000,6650,Support,Acquired,$85,2022,37.77493,-122.41942
+2770,BookMyShow,Mumbai,India,Asia,270,2020-05-28,18.0,1500,1230,Consumer,Unknown,$224,2020,19.07283,72.88261
+3177,ZipRecruiter,Los Angeles,USA,North America,400,2020-03-29,39.0,1026,626,Recruiting,Series B,$219,2020,34.05223,-118.24368
+2232,Bullish,Hong Kong,Hong Kong,Asia,30,2022-07-05,8.0,375,345,Crypto,Unknown,$300,2022,22.27832,114.17469
+1348,Astronomer,Cincinnati,USA,North America,76,2023-01-04,20.0,380,304,Data,Series C,$282,2023,39.12711,-84.51439
+2362,Redfin,Seattle,USA,North America,470,2022-06-14,8.0,5875,5405,Real Estate,Post-IPO,$319,2022,47.60621,-122.33207
+1968,DataRobot,Boston,USA,North America,242,2022-08-23,26.0,930,688,Data,Series G,$1000,2022,42.35843,-71.05977
+200,Epic Games,Raleigh,USA,North America,870,2023-09-28,16.0,5438,4568,Consumer,Unknown,6400,2023,35.7721,-78.63861
+2767,CrowdStreet,Portland,USA,North America,24,2020-06-01,22.0,109,85,Real Estate,Series C,$24,2020,45.52345,-122.67621
+1719,Upstart,San Francisco Bay Area,USA,North America,140,2022-11-01,7.0,2000,1860,Finance,Post-IPO,$144,2022,37.56299,-122.32553
+1087,HubSpot,Boston,USA,North America,500,2023-01-31,7.0,7143,6643,Marketing,Post-IPO,$100,2023,42.35843,-71.05977
+939,Green Labs,Seoul,South Korea,Asia,350,2023-02-21,70.0,500,150,Food,Series C,$214,2023,37.566,126.9784
+138,Convoy,Seattle,USA,North America,500,2023-10-19,100.0,500,0,Logistics,Series E,$1100,2023,47.60621,-122.33207
+2078,Sendy,Nairobi,Kenya,Africa,30,2022-08-02,10.0,300,270,Logistics,Series B,$26,2022,-1.28333,36.81667
+1602,Asana,San Francisco Bay Area,USA,North America,180,2022-11-15,9.0,2000,1820,Other,Post-IPO,$453,2022,37.77493,-122.41942
+3074,Iflix,Kuala Lumpur,Malaysia,Asia,50,2020-04-04,12.0,417,367,Consumer,Unknown,$348,2020,3.1412,101.68653
+2741,Splunk,San Francisco Bay Area,USA,North America,70,2020-06-16,1.0,7000,6930,Data,Post-IPO,$40,2020,37.77493,-122.41942
+2459,Uncapped,London,United Kingdom,Europe,29,2022-05-27,26.0,112,83,Finance,Unknown,$118,2022,51.50853,-0.12574
+2489,Skillz,San Francisco Bay Area,USA,North America,70,2022-05-20,10.0,700,630,Consumer,Post-IPO,$287,2022,37.77493,-122.41942
+3244,Ladder Life,San Francisco Bay Area,USA,North America,13,2020-03-23,25.0,52,39,Finance,Series C,$94,2020,37.44188,-122.14302
+758,Pear Therapeutics,Boston,USA,North America,170,2023-04-07,92.0,185,15,Healthcare,Post-IPO,$409,2023,42.35843,-71.05977
+1037,Pocket Aces,Mumbai,India,Asia,50,2023-02-06,25.0,200,150,Media,Unknown,$19,2023,19.07283,72.88261
+286,Veriff,Tallinn,Estonia,Europe,101,2023-08-23,21.0,481,380,Security,Series C,$192,2023,59.43696,24.75353
+415,PayScale,Seattle,USA,North America,14,2023-07-14,2.0,700,686,HR,Acquired,$33,2023,47.60621,-122.33207
+272,Huma,London,United Kingdom,Europe,45,2023-08-30,10.0,450,405,Healthcare,Unknown,$217,2023,51.50853,-0.12574
+688,Dropbox,San Francisco Bay Area,USA,North America,500,2023-04-27,16.0,3125,2625,Other,Post-IPO,$1700,2023,37.77493,-122.41942
+1608,Jimdo,Hamburg,Germany,Europe,50,2022-11-15,16.0,313,263,Other,Unknown,$28,2022,53.55073,9.99302
+291,Getir,London,United Kingdom,Europe,2500,2023-08-22,11.0,22727,20227,Food,Series E,$1800,2023,51.50853,-0.12574
+705,Rapid,San Francisco Bay Area,USA,North America,70,2023-04-25,30.0,233,163,Finance,Series D,$272,2023,37.77493,-122.41942
+2493,Kry,Stockholm,Sweden,Europe,100,2022-05-17,10.0,1000,900,Healthcare,Series D,$568,2022,59.32938,18.06871
+2040,Perion,Tel Aviv,Israel,Asia,20,2022-08-08,5.0,400,380,Marketing,Post-IPO,$76,2022,32.08088,34.78057
+734,Drip Capital,San Francisco Bay Area,USA,North America,75,2023-04-14,20.0,375,300,Finance,Series C,$85,2023,37.44188,-122.14302
+2167,Gemini,New York City,USA,North America,68,2022-07-18,7.0,971,903,Crypto,Unknown,$423,2022,40.71427,-74.00597
+2021,Quanterix,Boston,USA,North America,130,2022-08-09,25.0,520,390,Healthcare,Post-IPO,$533,2022,42.35843,-71.05977
+184,Hopper,Montreal,Canada,North America,250,2023-10-04,30.0,833,583,Travel,Unknown,$730,2023,45.50884,-73.58781
+2484,Airtime,New York City,USA,North America,30,2022-05-23,20.0,150,120,Consumer,Series B,$33,2022,40.71427,-74.00597
+373,Kape Technologies,London,United Kingdom,Europe,200,2023-07-30,30.0,667,467,Security,Post-IPO,$188,2023,51.50853,-0.12574
+2872,Sandbox VR,San Francisco Bay Area,USA,North America,80,2020-05-01,80.0,100,20,Consumer,Series A,$82,2020,37.77493,-122.41942
+1106,Chrono24,Karlsruhe,Germany,Europe,65,2023-01-30,13.0,500,435,Retail,Series C,$205,2023,49.00937,8.40444
+2247,Canoo,Los Angeles,USA,North America,58,2022-07-01,6.0,967,909,Transportation,Post-IPO,$300,2022,34.05223,-118.24368
+2161,Olive,Columbus,USA,North America,450,2022-07-19,31.0,1452,1002,Healthcare,Series H,$856,2022,39.96118,-82.99879
+3021,LoopMe,London,United Kingdom,Europe,8,2020-04-09,4.0,200,192,Marketing,Unknown,$32,2020,51.50853,-0.12574
+3209,Ecobee,Toronto,Canada,North America,47,2020-03-26,10.0,470,423,Energy,Series C,$149,2020,43.70643,-79.39864
+749,Permutive,London,United Kingdom,Europe,80,2023-04-11,40.0,200,120,Marketing,Series C,$105,2023,51.50853,-0.12574
+1910,Simple Feast,Copenhagen,Denmark,Europe,150,2022-09-07,100.0,150,0,Food,Unknown,$173,2022,55.67594,12.56553
+3049,Redfin,Seattle,USA,North America,236,2020-04-07,7.0,3371,3135,Real Estate,Post-IPO,$319,2020,47.60621,-122.33207
+2960,People.ai,San Francisco Bay Area,USA,North America,30,2020-04-17,18.0,167,137,Marketing,Series C,$100,2020,37.77493,-122.41942
+665,Karma,Tel Aviv,Israel,Asia,20,2023-05-04,28.0,71,51,Retail,Series A,$34,2023,32.08088,34.78057
+2945,Kueski,Guadalajara,Mexico,North America,90,2020-04-20,30.0,300,210,Finance,Series B,$38,2020,20.66682,-103.39182
+2141,WHOOP,Boston,USA,North America,95,2022-07-21,15.0,633,538,Fitness,Series F,$404,2022,42.35843,-71.05977
+2303,Netflix,San Francisco Bay Area,USA,North America,300,2022-06-23,3.0,10000,9700,Media,Post-IPO,$121900,2022,37.22661,-121.97468
+1372,TuSimple,San Diego,USA,North America,350,2022-12-21,25.0,1400,1050,Transportation,Post-IPO,$648,2022,32.71571,-117.16472
+3285,Unity,San Francisco Bay Area,USA,North America,1800,2024-08-01,25.0,7200,5400,Other,Post-IPO,$1300,2024,37.77493,-122.41942
+2739,PaisaBazaar,Gurugram,India,Asia,1500,2020-06-16,50.0,3000,1500,Finance,Series G,$496,2020,28.4601,77.02635
+2118,Shopify,Ottawa,Canada,North America,1000,2022-07-26,10.0,10000,9000,Retail,Post-IPO,$122,2022,45.41117,-75.69812
+1611,CaptivateIQ,San Francisco Bay Area,USA,North America,31,2022-11-15,10.0,310,279,Sales,Series C,$164,2022,37.77493,-122.41942
+1374,Chope,Singapore,Singapore,Asia,65,2022-12-20,24.0,271,206,Food,Series E,$50,2022,1.28967,103.85007
+1540,VerSe Innovation,Bengaluru,India,Asia,150,2022-11-25,5.0,3000,2850,Media,Series J,$1700,2022,12.97194,77.59369
+183,Qualtrics,Salt Lake City,USA,North America,780,2023-10-04,14.0,5571,4791,Other,Post-IPO,$400,2023,40.76078,-111.89105
+1624,Ribbon,New York City,USA,North America,170,2022-11-14,85.0,200,30,Real Estate,Series C,$405,2022,40.71427,-74.00597
+747,Milkrun,Sydney,Australia,Australia,400,2023-04-11,100.0,400,0,Food,Series A,$86,2023,-33.86785,151.20732
+447,FrontRow,Bengaluru,India,Asia,4,2023-07-10,100.0,4,0,Education,Series A,$17,2023,12.97194,77.59369
+1336,Everlane,San Francisco Bay Area,USA,North America,30,2023-01-05,17.0,176,146,Retail,Unknown,$176,2023,37.77493,-122.41942
+750,Examedi,Santiago,Chile,South America,45,2023-04-11,25.0,180,135,Healthcare,Unknown,$19,2023,-33.45694,-70.64827
+2828,Hireology,Chicago,USA,North America,36,2020-05-12,17.0,212,176,Recruiting,Series D,$52,2020,41.85003,-87.65005
+1712,Iron Ox,San Francisco Bay Area,USA,North America,50,2022-11-02,50.0,100,50,Food,Series C,$103,2022,37.77493,-122.41942
+1465,Stash,New York City,USA,North America,32,2022-12-06,8.0,400,368,Finance,Unknown,$480,2022,40.71427,-74.00597
+3266,Panda Squad,San Francisco Bay Area,USA,North America,6,2020-03-13,75.0,8,2,Consumer,Seed,$1,2020,37.77493,-122.41942
+639,Cornershop,Santiago,Chile,South America,250,2023-05-11,11.0,2273,2023,Food,Acquired,$31,2023,-33.45694,-70.64827
+1433,TechTarget,Boston,USA,North America,60,2022-12-08,5.0,1200,1140,Marketing,Post-IPO,$115,2022,42.35843,-71.05977
+1029,Openpay,Melbourne,Australia,Australia,83,2023-02-07,100.0,83,0,Finance,Post-IPO,$299,2023,-37.814,144.96332
+2151,Flyhomes,Seattle,USA,North America,200,2022-07-20,20.0,1000,800,Real Estate,Series C,$310,2022,47.60621,-122.33207
+255,Absci,Portland,USA,North America,30,2023-09-05,15.0,200,170,Healthcare,Post-IPO,$238,2023,45.52345,-122.67621
+1016,Affirm,San Francisco Bay Area,USA,North America,500,2023-02-08,19.0,2632,2132,Finance,Post-IPO,$1500,2023,37.77493,-122.41942
+1686,Twitter,San Francisco Bay Area,USA,North America,3700,2022-11-04,50.0,7400,3700,Consumer,Post-IPO,$12900,2022,37.77493,-122.41942
+1621,Illumina,San Diego,USA,North America,500,2022-11-14,5.0,10000,9500,Healthcare,Post-IPO,$28,2022,32.71571,-117.16472
+1270,Blockchain.com,London,United Kingdom,Europe,110,2023-01-12,28.0,393,283,Crypto,Series D,$490,2023,51.50853,-0.12574
+2258,Abra,San Francisco Bay Area,USA,North America,12,2022-06-30,5.0,240,228,Crypto,Series C,$106,2022,37.70215,-121.93579
+656,Twist Bioscience,San Francisco Bay Area,USA,North America,270,2023-05-05,25.0,1080,810,Healthcare,Post-IPO,$503,2023,37.77493,-122.41942
+2793,Pollen,London,United Kingdom,Europe,69,2020-05-19,31.0,223,154,Travel,Series B,$88,2020,51.50853,-0.12574
+1872,Clear,Bengaluru,India,Asia,190,2022-09-16,20.0,950,760,Finance,Series C,$140,2022,12.97194,77.59369
+673,TheSkimm,New York City,USA,North America,22,2023-05-03,13.0,169,147,Media,Series C,$28,2023,40.71427,-74.00597
+2838,Flywire,Boston,USA,North America,60,2020-05-07,12.0,500,440,Finance,Series E,$263,2020,42.35843,-71.05977
+1010,Veriff,Tallinn,Estonia,Europe,66,2023-02-09,12.0,550,484,Security,Series C,$192,2023,59.43696,24.75353
+142,ManoMano,Paris,France,Europe,230,2023-10-18,25.0,920,690,Retail,Series F,$705,2023,48.85341,2.3488
+1645,SoundHound,San Francisco Bay Area,USA,North America,45,2022-11-10,10.0,450,405,Other,Post-IPO,$326,2022,37.35411,-121.95524
+1069,Workato,San Francisco Bay Area,USA,North America,90,2023-02-01,10.0,900,810,Other,Series E,$415,2023,37.38605,-122.08385
+3239,Leafly,Seattle,USA,North America,91,2020-03-23,50.0,182,91,Retail,Acquired,$2,2020,47.60621,-122.33207
+2347,Zumper,San Francisco Bay Area,USA,North America,45,2022-06-16,15.0,300,255,Real Estate,Series D,$178,2022,37.77493,-122.41942
+2849,Airbnb,San Francisco Bay Area,USA,North America,1900,2020-05-05,25.0,7600,5700,Travel,Private Equity …,$5400,2020,37.77493,-122.41942
+2999,Neon,Sao Paulo,Brazil,South America,70,2020-04-13,10.0,700,630,Finance,Series B,$120,2020,-23.5475,-46.63611
+2968,CleverTap,Mumbai,India,Asia,60,2020-04-16,20.0,300,240,Marketing,Series C,$76,2020,19.07283,72.88261
+1212,Jumpcloud,Boulder,USA,North America,100,2023-01-18,12.0,833,733,Security,Series F,$416,2023,40.01499,-105.27055
+3068,Borrowell,Toronto,Canada,North America,15,2020-04-06,20.0,75,60,Finance,Series B,$72,2020,43.70643,-79.39864
+1020,Equitybee,San Francisco Bay Area,USA,North America,24,2023-02-08,25.0,96,72,Finance,Series B,$85,2023,37.44188,-122.14302
+1205,Sophos,Oxford,United Kingdom,Europe,450,2023-01-18,10.0,4500,4050,Security,Acquired,$125,2023,51.75222,-1.25596
+2138,Blockchain.com,London,United Kingdom,Europe,150,2022-07-21,25.0,600,450,Crypto,Series D,$490,2022,51.50853,-0.12574
+1814,Redesign Health,New York City,USA,North America,67,2022-10-10,20.0,335,268,Healthcare,Series C,$315,2022,40.71427,-74.00597
+3083,Salsify,Boston,USA,North America,60,2020-04-03,13.0,462,402,Retail,Series D,$97,2020,42.35843,-71.05977
+568,Spotify,Stockholm,Sweden,Europe,200,2023-06-05,2.0,9400,9200,Media,Post-IPO,$2100,2023,59.32938,18.06871
+802,AEye,San Francisco Bay Area,USA,North America,46,2023-03-28,33.0,139,93,Transportation,Post-IPO,$314,2023,37.77493,-122.41942
+1229,Unity,San Francisco Bay Area,USA,North America,284,2023-01-17,3.0,9467,9183,Other,Post-IPO,$1300,2023,37.77493,-122.41942
+2627,Postmates,San Francisco Bay Area,USA,North America,180,2021-01-23,15.0,1200,1020,Food,Acquired,$763,2021,37.77493,-122.41942
+1018,Gong,San Francisco Bay Area,USA,North America,80,2023-02-08,7.0,1143,1063,Sales,Series E,$583,2023,37.77493,-122.41942
+1694,Lyft,San Francisco Bay Area,USA,North America,700,2022-11-03,13.0,5385,4685,Transportation,Post-IPO,$4900,2022,37.77493,-122.41942
+1072,Chainalysis,New York City,USA,North America,44,2023-02-01,5.0,880,836,Crypto,Series F,$536,2023,40.71427,-74.00597
+844,TradeWindow,Auckland,New Zealand,Australia,25,2023-03-15,30.0,83,58,Finance,Series B,$24,2023,-36.84853,174.76349
+2911,Welkin Health,San Francisco Bay Area,USA,North America,10,2020-04-24,33.0,30,20,Healthcare,Series B,$29,2020,37.77493,-122.41942
+1662,Kabam,San Francisco Bay Area,USA,North America,35,2022-11-09,7.0,500,465,Consumer,Acquired,$244,2022,37.77493,-122.41942
+764,Amplitude,San Francisco Bay Area,USA,North America,99,2023-04-05,13.0,762,663,Data,Post-IPO,$311,2023,37.77493,-122.41942
+1975,Amperity,Seattle,USA,North America,13,2022-08-20,3.0,433,420,Marketing,Series D,$187,2022,47.60621,-122.33207
+247,Drift,Boston,USA,North America,100,2023-09-07,25.0,400,300,Marketing,Acquired,$107,2023,42.35843,-71.05977
+728,Paper,Montreal,Canada,North America,81,2023-04-17,3.0,2700,2619,Education,Series D,$389,2023,45.50884,-73.58781
+2674,SaleSan Franciscoorce,San Francisco Bay Area,USA,North America,1000,2020-08-26,2.0,50000,49000,Sales,Post-IPO,$65,2020,37.77493,-122.41942
+2732,Gojek,Jakarta,Indonesia,Asia,430,2020-06-23,9.0,4778,4348,Transportation,Series F,$4800,2020,-6.21462,106.84513
+1603,OwnBackup,New York City,USA,North America,170,2022-11-15,17.0,1000,830,Security,Series E,$507,2022,40.71427,-74.00597
+2025,Linktree,Melbourne,Australia,Australia,50,2022-08-09,17.0,294,244,Consumer,Unknown,$165,2022,-37.814,144.96332
+586,Vendr,Boston,USA,North America,100,2023-05-31,25.0,400,300,Other,Series B,$216,2023,42.35843,-71.05977
+2020,Nutanix,San Francisco Bay Area,USA,North America,270,2022-08-09,4.0,6750,6480,Infrastructure,Post-IPO,$1100,2022,37.33939,-121.89496
+139,Bullhorn,Boston,USA,North America,140,2023-10-19,9.0,1556,1416,Sales,Acquired,$32,2023,42.35843,-71.05977
+780,Roku,San Francisco Bay Area,USA,North America,200,2023-03-30,6.0,3333,3133,Media,Post-IPO,$208,2023,37.33939,-121.89496
+2796,Uber,San Francisco Bay Area,USA,North America,3000,2020-05-18,13.0,23077,20077,Transportation,Post-IPO,$24700,2020,37.77493,-122.41942
+2858,CureFit,Bengaluru,India,Asia,800,2020-05-04,16.0,5000,4200,Fitness,Series D,$404,2020,12.97194,77.59369
+2901,JetClosing,Seattle,USA,North America,20,2020-04-27,20.0,100,80,Real Estate,Series A,$24,2020,47.60621,-122.33207
+1033,Loggi,Sao Paulo,Brazil,South America,300,2023-02-06,7.0,4286,3986,Logistics,Series F,$507,2023,-23.5475,-46.63611
+796,iCAD,Nashua,USA,North America,23,2023-03-29,28.0,82,59,Healthcare,Post-IPO,$59,2023,42.76537,-71.46757
+3262,Inspirato,Denver,USA,North America,130,2020-03-16,22.0,591,461,Travel,Series C,$79,2020,39.73915,-104.9847
+2009,Marketforce,Nairobi,Kenya,Africa,54,2022-08-11,9.0,600,546,Retail,Series A,$42,2022,-1.28333,36.81667
+2380,Albert,Los Angeles,USA,North America,20,2022-06-10,8.0,250,230,Finance,Series C,$175,2022,34.05223,-118.24368
+1787,Flipboard,San Francisco Bay Area,USA,North America,24,2022-10-16,21.0,114,90,Media,Unknown,$235,2022,37.44188,-122.14302
+3013,OneTrust,Atlanta,USA,North America,150,2020-04-09,10.0,1500,1350,Legal,Series B,$410,2020,33.749,-84.38798
+2807,Lattice,San Francisco Bay Area,USA,North America,16,2020-05-15,10.0,160,144,HR,Series C,$49,2020,37.77493,-122.41942
+2515,Mural,San Francisco Bay Area,USA,North America,90,2022-05-05,10.0,900,810,Product,Series C,$192,2022,37.77493,-122.41942
+2242,Celsius,New York City,USA,North America,150,2022-07-03,25.0,600,450,Crypto,Series B,$864,2022,40.71427,-74.00597
+2179,Zego,London,United Kingdom,Europe,85,2022-07-14,17.0,500,415,Finance,Series C,$202,2022,51.50853,-0.12574
+1887,Patreon,San Francisco Bay Area,USA,North America,80,2022-09-13,17.0,471,391,Media,Series F,$413,2022,37.77493,-122.41942
+1566,Synthego,San Francisco Bay Area,USA,North America,105,2022-11-18,20.0,525,420,Healthcare,Series E,$459,2022,37.48522,-122.23635
+2586,Glossier,New York City,USA,North America,80,2022-01-26,33.0,242,162,Consumer,Series E,$266,2022,40.71427,-74.00597
+1999,ContraFect,New York City,USA,North America,16,2022-08-15,37.0,43,27,Healthcare,Post-IPO,$380,2022,40.71427,-74.00597
+2527,Domestika,San Francisco Bay Area,USA,North America,150,2022-04-28,19.0,789,639,Education,Series D,$130,2022,37.87159,-122.27275
+1782,Leafly,Seattle,USA,North America,56,2022-10-18,21.0,267,211,Retail,Post-IPO,$71,2022,47.60621,-122.33207
+2698,Zeitgold,Berlin,Germany,Europe,75,2020-07-27,72.0,104,29,Finance,Series B,$60,2020,52.52437,13.41053
+814,Wejo,Chester,United Kingdom,Europe,40,2023-03-22,16.0,250,210,Transportation,Post-IPO,$376,2023,53.1905,-2.89189
+1075,TheSkimm,New York City,USA,North America,17,2023-02-01,10.0,170,153,Media,Series C,$28,2023,40.71427,-74.00597
+1489,Bizzabo,New York City,USA,North America,100,2022-12-01,37.0,270,170,Marketing,Series E,$194,2022,40.71427,-74.00597
+3243,Triplebyte,San Francisco Bay Area,USA,North America,15,2020-03-23,17.0,88,73,Recruiting,Series B,$48,2020,37.77493,-122.41942
+2018,GoHealth,Chicago,USA,North America,800,2022-08-09,20.0,4000,3200,Healthcare,Post-IPO,$75,2022,41.85003,-87.65005
+3112,Jobcase,Boston,USA,North America,39,2020-04-02,20.0,195,156,Recruiting,Private Equity …,$118,2020,42.35843,-71.05977
+1588,Twiga,Nairobi,Kenya,Africa,211,2022-11-16,21.0,1005,794,Food,Series C,$157,2022,-1.28333,36.81667
+2236,Lightricks,Jerusalem,Israel,Asia,80,2022-07-04,12.0,667,587,Consumer,Series D,$335,2022,31.76904,35.21633
+1230,Britishvolt,London,United Kingdom,Europe,206,2023-01-17,100.0,206,0,Transportation,Unknown,$2400,2023,51.50853,-0.12574
+2594,Zillow,Seattle,USA,North America,2000,2021-11-02,25.0,8000,6000,Real Estate,Post-IPO,$97,2021,47.60621,-122.33207
+3281,Twitch,San Francisco Bay Area,USA,North America,500,2024-09-01,35.0,1429,929,Consumer,Acquired,$35,2024,37.77493,-122.41942
+3003,Frontdesk,Milwaukee,USA,North America,35,2020-04-10,16.0,219,184,Travel,Unknown,$3,2020,43.0389,-87.90647
+235,Paper,Montreal,Canada,North America,87,2023-09-12,3.0,2900,2813,Education,Series D,$389,2023,45.50884,-73.58781
+2486,MFine,Bengaluru,India,Asia,600,2022-05-21,75.0,800,200,Healthcare,Series C,$97,2022,12.97194,77.59369
+841,Dukaan,Bengaluru,India,Asia,56,2023-03-15,30.0,187,131,Retail,Series A,$17,2023,12.97194,77.59369
+2143,Lunchbox,New York City,USA,North America,60,2022-07-21,33.0,182,122,Food,Series B,$72,2022,40.71427,-74.00597
+115,Splunk,San Francisco Bay Area,USA,North America,500,2023-11-01,7.0,7143,6643,Data,Post-IPO,$2400,2023,37.77493,-122.41942
+384,Copia,Nairobi,Kenya,Africa,350,2023-07-26,25.0,1400,1050,Retail,Series C,$103,2023,-1.28333,36.81667
+2283,Vezeeta,Dubai,United Arabian Emirates,Asia,50,2022-06-28,10.0,500,450,Healthcare,Series D,$71,2022,25.07725,55.30927
+1906,Pomelo Fashion,Bangkok,Thailand,Asia,55,2022-09-08,8.0,688,633,Retail,Unknown,$120,2022,13.75398,100.50144
+1411,Outschool,San Francisco Bay Area,USA,North America,43,2022-12-10,25.0,172,129,Education,Series D,$240,2022,37.77493,-122.41942
+1746,Zillow,Seattle,USA,North America,300,2022-10-26,5.0,6000,5700,Real Estate,Post-IPO,$97,2022,47.60621,-122.33207
+965,ServiceTitan,Los Angeles,USA,North America,221,2023-02-15,8.0,2763,2542,Sales,Series G,$1100,2023,34.05223,-118.24368
+2289,AppLovin,San Francisco Bay Area,USA,North America,300,2022-06-27,12.0,2500,2200,Marketing,Post-IPO,$1600,2022,37.44188,-122.14302
+2756,Monzo,London,United Kingdom,Europe,120,2020-06-03,8.0,1500,1380,Finance,Series F,$324,2020,51.50853,-0.12574
+2225,Anodot,Tel Aviv,Israel,Asia,15,2022-07-06,20.0,75,60,Data,Series C,$64,2022,32.08088,34.78057
+2706,Optimizely,San Francisco Bay Area,USA,North America,60,2020-07-15,15.0,400,340,Marketing,Series D,$251,2020,37.77493,-122.41942
+1450,Integral Ad Science,New York City,USA,North America,120,2022-12-07,13.0,923,803,Marketing,Acquired,$116,2022,40.71427,-74.00597
+2328,Sourcegraph,San Francisco Bay Area,USA,North America,24,2022-06-21,8.0,300,276,Product,Series D,$248,2022,37.77493,-122.41942
+1720,Gem,San Francisco Bay Area,USA,North America,100,2022-11-01,33.0,303,203,Recruiting,Series C,$148,2022,37.77493,-122.41942
+1088,Upstart,San Francisco Bay Area,USA,North America,365,2023-01-31,20.0,1825,1460,Finance,Post-IPO,$144,2023,37.56299,-122.32553
+1065,Splunk,San Francisco Bay Area,USA,North America,325,2023-02-01,4.0,8125,7800,Data,Post-IPO,$2400,2023,37.77493,-122.41942
+1658,Root Insurance,Columbus,USA,North America,137,2022-11-09,20.0,685,548,Finance,Post-IPO,$527,2022,39.96118,-82.99879
+663,Autograph,Los Angeles,USA,North America,30,2023-05-04,33.0,91,61,Crypto,Series B,$205,2023,34.05223,-118.24368
+2064,Beyond Meat,Los Angeles,USA,North America,40,2022-08-03,4.0,1000,960,Food,Post-IPO,$122,2022,34.05223,-118.24368
+467,Zip,Sydney,Australia,Australia,300,2023-07-02,20.0,1500,1200,Finance,Post-IPO,$896,2023,-33.86785,151.20732
+2889,TranSan Franciscoix,New York City,USA,North America,24,2020-04-29,10.0,240,216,Logistics,Series D,$128,2020,40.71427,-74.00597
+307,StreamElements,Tel Aviv,Israel,Asia,60,2023-08-17,35.0,171,111,Media,Series B,$111,2023,32.08088,34.78057
+3129,PatientPop,Los Angeles,USA,North America,100,2020-04-01,20.0,500,400,Healthcare,Series B,$75,2020,34.05223,-118.24368
+2954,Greenhouse,New York City,USA,North America,120,2020-04-17,28.0,429,309,Recruiting,Series D,$110,2020,40.71427,-74.00597
+3286,Pitch,Berlin,Germany,Europe,80,2024-08-01,67.0,119,39,Other,Series B,$138,2024,52.52437,13.41053
+911,Palantir,Denver,USA,North America,75,2023-02-27,2.0,3750,3675,Data,Post-IPO,$3000,2023,39.73915,-104.9847
+1217,Addepar,San Francisco Bay Area,USA,North America,20,2023-01-18,3.0,667,647,Finance,Series F,$491,2023,37.38605,-122.08385
+402,AgentSync,Denver,USA,North America,67,2023-07-19,24.0,279,212,Finance,Series B,$111,2023,39.73915,-104.9847
+2913,TutorMundi,Sao Paulo,Brazil,South America,4,2020-04-24,100.0,4,0,Education,Series A,$2,2020,-23.5475,-46.63611
+2763,Descartes Labs,Santa Fe,USA,North America,12,2020-06-02,16.0,75,63,Data,Series B,$58,2020,33.94724,-118.08535
+2271,Baton,San Francisco Bay Area,USA,North America,16,2022-06-29,25.0,64,48,Transportation,Series A,$13,2022,37.77493,-122.41942
+3213,Consider.co,San Francisco Bay Area,USA,North America,13,2020-03-26,100.0,13,0,Other,Seed,$5,2020,37.77493,-122.41942
+708,BigPanda,San Francisco Bay Area,USA,North America,40,2023-04-24,13.0,308,268,Infrastructure,Series E,$337,2023,37.48522,-122.23635
+2235,Syte,Tel Aviv,Israel,Asia,13,2022-07-05,8.0,163,150,Retail,Series C,$71,2022,32.08088,34.78057
+2852,Stack Overflow,New York City,USA,North America,40,2020-05-05,15.0,267,227,Recruiting,Series D,$68,2020,40.71427,-74.00597
+915,Twitter,San Francisco Bay Area,USA,North America,200,2023-02-25,10.0,2000,1800,Consumer,Post-IPO,$12900,2023,37.77493,-122.41942
+602,Guild,Denver,USA,North America,172,2023-05-24,12.0,1433,1261,Education,Series F,$643,2023,39.73915,-104.9847
+1525,Infarm,Berlin,Germany,Europe,500,2022-11-28,50.0,1000,500,Other,Series D,$604,2022,52.52437,13.41053
+1500,Happy Money,Los Angeles,USA,North America,158,2022-11-30,34.0,465,307,Finance,Series D,$191,2022,34.05223,-118.24368
+2702,LinkedIn,San Francisco Bay Area,USA,North America,960,2020-07-21,6.0,16000,15040,Recruiting,Acquired,$154,2020,37.36883,-122.03635
+1776,AtoB,San Francisco Bay Area,USA,North America,32,2022-10-19,30.0,107,75,Finance,Series B,$177,2022,37.77493,-122.41942
+1393,LeafLink,New York City,USA,North America,80,2022-12-15,31.0,258,178,Other,Series C,$379,2022,40.71427,-74.00597
+3025,Eventbrite,San Francisco Bay Area,USA,North America,500,2020-04-08,45.0,1111,611,Consumer,Post-IPO,$332,2020,37.77493,-122.41942
+2325,Ebanx,Curitiba,Brazil,South America,340,2022-06-21,20.0,1700,1360,Finance,Series B,$460,2022,-25.42778,-49.27306
+838,Leafly,Seattle,USA,North America,40,2023-03-16,21.0,190,150,Retail,Post-IPO,$71,2023,47.60621,-122.33207
+2487,Latch,New York City,USA,North America,130,2022-05-20,28.0,464,334,Security,Post-IPO,$342,2022,40.71427,-74.00597
+2590,Delivery Hero,Berlin,Germany,Europe,300,2021-12-22,6.976744186046512,4300,4000,Food,Post-IPO,8300,2021,52.52437,13.41053
+2470,Kontist,Berlin,Germany,Europe,50,2022-05-25,25.0,200,150,Finance,Series B,$53,2022,52.52437,13.41053
+831,Livspace,Bengaluru,India,Asia,100,2023-03-17,2.0,5000,4900,Retail,Series F,$431,2023,12.97194,77.59369
+3279,Instagram,San Francisco Bay Area,USA,North America,60,2024-10-01,13.33333333333333,450,390,Consumer,Acquired,$57,2024,37.45383,-122.18219
+2361,Coinbase,San Francisco Bay Area,USA,North America,1100,2022-06-14,18.0,6111,5011,Crypto,Post-IPO,$549,2022,37.77493,-122.41942
+1332,Socure,Reno,USA,North America,104,2023-01-05,19.0,547,443,Finance,Series E,$646,2023,39.52963,-119.8138
+1103,Glovo,Barcelona,Spain,Europe,250,2023-01-30,6.0,4167,3917,Food,Acquired,1200,2023,41.38879,2.15899
+832,Symend,Calgary,Canada,North America,50,2023-03-17,25.0,200,150,Other,Series C,$148,2023,51.05011,-114.08529
+2544,Ahead,San Francisco Bay Area,USA,North America,44,2022-04-14,100.0,44,0,Healthcare,Unknown,$9,2022,37.77493,-122.41942
+2837,Numbrs,Zurich,Switzerland,Europe,62,2020-05-07,50.0,124,62,Finance,Series B,$78,2020,47.36667,8.55
+2700,Checkr,San Francisco Bay Area,USA,North America,64,2020-07-23,12.0,533,469,HR,Series D,$309,2020,37.77493,-122.41942
+2639,Aya,Toronto,Canada,North America,5,2020-11-19,25.0,20,15,Finance,Seed,$3,2020,43.70643,-79.39864
+1654,Meta,San Francisco Bay Area,USA,North America,11000,2022-11-09,13.0,84615,73615,Consumer,Post-IPO,$26000,2022,37.45383,-122.18219
+1301,Thinkific,Vancouver,Canada,North America,76,2023-01-10,19.0,400,324,Education,Post-IPO,$22,2023,49.24966,-123.11934
+2931,Swiggy,Bengaluru,India,Asia,800,2020-04-21,9.241076585422201,8657,7857,Food,Series I,$1600,2020,12.97194,77.59369
+1813,Pavilion Data,San Francisco Bay Area,USA,North America,96,2022-10-10,96.0,100,4,Infrastructure,Series D,$103,2022,37.33939,-121.89496
+2818,Mercos,Joinville,Brazil,South America,51,2020-05-13,40.0,128,77,Sales,Unknown,$2,2020,-26.30444,-48.84556
+2925,When I Work,Minneapolis,USA,North America,55,2020-04-22,35.0,157,102,HR,Series B,$24,2020,44.97997,-93.26384
+2345,Finite State,Columbus,USA,North America,16,2022-06-17,20.0,80,64,Security,Series B,$49,2022,39.96118,-82.99879
+1121,Matrixport,Singapore,Singapore,Asia,29,2023-01-27,10.0,290,261,Crypto,Series C,$100,2023,1.28967,103.85007
+1190,Saks.com,New York City,USA,North America,100,2023-01-19,5.0,2000,1900,Retail,Unknown,$965,2023,40.71427,-74.00597
+2562,Storytel,Stockholm,Sweden,Europe,100,2022-03-17,10.0,1000,900,Media,Post-IPO,$275,2022,59.32938,18.06871
+229,VideoAmp,Los Angeles,USA,North America,40,2023-09-14,10.0,400,360,Marketing,Series F,$456,2023,34.05223,-118.24368
+2423,Carbon Health,San Francisco Bay Area,USA,North America,250,2022-06-02,8.0,3125,2875,Healthcare,Series D,$522,2022,37.77493,-122.41942
+1655,Redfin,Seattle,USA,North America,862,2022-11-09,13.0,6631,5769,Real Estate,Post-IPO,$320,2022,47.60621,-122.33207
+2191,Involves,Florianopolis,Brazil,South America,70,2022-07-13,18.0,389,319,Retail,Unknown,$23,2022,-27.59667,-48.54917
+2897,Shipsi,Los Angeles,USA,North America,20,2020-04-28,50.0,40,20,Retail,Seed,$2,2020,34.05223,-118.24368
+329,Rapid7,Boston,USA,North America,470,2023-08-08,18.0,2611,2141,Security,Post-IPO,$89,2023,42.35843,-71.05977
+3157,DialSource,Sacramento,USA,North America,5,2020-03-31,14.0,36,31,Marketing,Series B,$26,2020,38.58157,-121.4944
+3273,Inmobi,Bengaluru,India,Asia,125,2024-11-01,5.0,2500,2375,Marketing,Unknown,$320,2024,12.97194,77.59369
+1150,Bolt,San Francisco Bay Area,USA,North America,50,2023-01-24,10.0,500,450,Finance,Series E,$1300,2023,37.77493,-122.41942
+1269,Pier,Sao Paulo,Brazil,South America,111,2023-01-12,39.0,285,174,Finance,Series B,$42,2023,-23.5475,-46.63611
+2070,Robinhood,San Francisco Bay Area,USA,North America,713,2022-08-02,23.0,3100,2387,Finance,Post-IPO,$5600,2022,37.45383,-122.18219
+709,Lyft,San Francisco Bay Area,USA,North America,1072,2023-04-21,26.0,4123,3051,Transportation,Post-IPO,$4900,2023,37.77493,-122.41942
+404,Tilia,San Francisco Bay Area,USA,North America,28,2023-07-19,32.0,88,60,Finance,Unknown,$32,2023,37.77493,-122.41942
+1517,CoinJar,Melbourne,Australia,Australia,10,2022-11-29,20.0,50,40,Crypto,Unknown,$1,2022,-37.814,144.96332
+1628,Pear Therapeutics,Boston,USA,North America,59,2022-11-14,22.0,268,209,Healthcare,Post-IPO,$409,2022,42.35843,-71.05977
+599,Airmeet,Bengaluru,India,Asia,75,2023-05-25,30.0,250,175,Marketing,Series B,$50,2023,12.97194,77.59369
+2546,Rad Power Bikes,Seattle,USA,North America,100,2022-04-12,14.0,714,614,Transportation,Series D,$329,2022,47.60621,-122.33207
+2291,Udaan,Bengaluru,India,Asia,180,2022-06-27,4.0,4500,4320,Retail,Unknown,1500,2022,12.97194,77.59369
+2753,Lastline,San Francisco Bay Area,USA,North America,50,2020-06-04,40.0,125,75,Security,Series C,$52,2020,37.77493,-122.41942
+2320,Voi,Stockholm,Sweden,Europe,35,2022-06-22,10.0,350,315,Transportation,Series D,$515,2022,59.32938,18.06871
+2270,Rows,Berlin,Germany,Europe,18,2022-06-29,30.0,60,42,Other,Series B,$25,2022,52.52437,13.41053
+2777,Uber,Bengaluru,India,Asia,600,2020-05-26,23.0,2609,2009,Transportation,Post-IPO,$24700,2020,12.97194,77.59369
+141,StellarAlgo,Calgary,Canada,North America,21,2023-10-19,28.0,75,54,Data,Series A,$16,2023,51.05011,-114.08529
+690,Vroom,New York City,USA,North America,120,2023-04-27,11.0,1091,971,Transportation,Post-IPO,$1300,2023,40.71427,-74.00597
+2251,Enjoy,San Francisco Bay Area,USA,North America,400,2022-06-30,18.0,2222,1822,Retail,Post-IPO,$310,2022,37.44188,-122.14302
+1028,Salesloft,Atlanta,USA,North America,100,2023-02-07,10.0,1000,900,Sales,Acquired,$245,2023,33.749,-84.38798
+1930,Urban Sports Club,Berlin,Germany,Europe,55,2022-09-01,15.0,367,312,Fitness,Unknown,$95,2022,52.52437,13.41053
+2294,SafeGraph,San Francisco Bay Area,USA,North America,27,2022-06-27,25.0,108,81,Data,Series B,$61,2022,37.77493,-122.41942
+871,SiriusXM,New York City,USA,North America,475,2023-03-06,8.0,5938,5463,Media,Post-IPO,$525,2023,40.71427,-74.00597
+646,Akamai,Boston,USA,North America,290,2023-05-09,3.0,9667,9377,Security,Post-IPO,$35,2023,42.35843,-71.05977
