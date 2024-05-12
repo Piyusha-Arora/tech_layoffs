@@ -29,7 +29,7 @@ class DataTransformation:
 
         '''
         try:
-            numerical_columns = ['Company_Size_before_Layoffs', 'Year']
+            numerical_columns = ['Company_Size_before_Layoffs']
             categorical_columns = ['Company', 'Location_HQ', 'Country', 'Industry', 'Stage']
 
             num_pipeline = Pipeline(steps=[("scaler", StandardScaler())])
@@ -68,7 +68,7 @@ class DataTransformation:
             preprocessing_obj = self.get_data_transformer_object()
 
             target_column_name = "Laid_Off"
-            numerical_columns = ['Percentage', 'Company_Size_before_Layoffs','Company_Size_after_layoffs', 'Year']
+            numerical_columns = ['Percentage', 'Company_Size_before_Layoffs','Company_Size_after_layoffs']
 
             input_feature_train_df = train_df.drop(columns=[target_column_name],axis=1)
             target_feature_train_df = train_df[target_column_name]

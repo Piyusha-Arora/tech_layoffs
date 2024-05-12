@@ -1,0 +1,48 @@
+<html>
+<body>
+    <div class="login">
+       <h1>Tech Layoffs</h1>
+   
+       <form action="{{ url_for('predict_datapoint')}}" method="post">
+        <h1>
+            <legend>Tech Layoffs</legend>
+        </h1>
+	<div class="mb-3">
+            <label class="form-label">Company</label>
+            <input class="form-control" type="text" name="Company"
+                placeholder="Enter the Company" />
+        </div>
+	<div class="mb-3">
+            <label class="form-label">Locaton_HQ</label>
+            <input class="form-control" type="text" name="Location_HQ"
+                placeholder="Enter the Location of the Headquarters" />
+        </div>
+	<div class="mb-3">
+            <label class="form-label">Country</label>
+            <input class="form-control" type="text" name="Country"
+                placeholder="Enter the Country" />
+        </div>
+	<div class="mb-3">
+            <label class="form-label">Company_Size_before_Layoffs</label>
+            <input class="form-control" type="number" name="Company_Size_before_Layoffs"
+                placeholder="Enter the company size before layoffs" />
+        </div>
+	<div class="mb-3">
+            <label class="form-label">Industry</label>
+            <input class="form-control" type="text" name="Industry"
+                placeholder="Enter the Industry" />
+        </div>
+	<div class="mb-3">
+            <label class="form-label">Stage</label>
+            <input class="form-control" type="text" name="Stage"
+                placeholder="Enter the Stage of Company" />
+        </div>
+    <div class="mb-3">
+            <input class="btn btn-primary" type="submit" value="Predict Layoffs" required />
+        </div>
+    </form>
+    <h2>
+       The  prediction is {{results}}
+    </h2>
+   <body>
+</html>
